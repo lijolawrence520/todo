@@ -1,0 +1,17 @@
+.banner{
+background-color:aqua;
+width:1800px;
+height:100px;
+margin-bottom:90px;
+border-radius:10px;
+}
+
+
+.banner-text{
+position :relative;
+top:100px;
+left:800px;
+text-align:center;
+transform:transform;
+
+}
